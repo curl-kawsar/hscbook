@@ -435,7 +435,7 @@ $('.alert-k24').click(function () {
   
 });
 
-//Higher Math
+//Higher Math Ketab
 
 $('.alert-k25').click(function () {
   Swal.fire({
@@ -503,6 +503,226 @@ $('.alert-k28').click(function () {
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
     confirmButtonText: '<a href="https://www.panjeree.com/elearning/DQB12/books/hmt2/index.html">Download</a>',
+    showCancelButton: true,
+    cancelButtonText: 'Cancel',
+  });
+  
+});
+
+//math SU
+
+$('.alert-k29').click(function () {
+  Swal.fire({
+    imageUrl: '@original/assets/su1.webp',
+    customClass: {
+      popup: 'popup-noproject',
+      confirmButton: 'confirm-button-noproject',
+      cancelButton: 'cancel-button-noproject',
+    },
+    width: 400,
+    background: '#000',
+    backdrop: `rgba(13, 13, 13, 0.92)`,
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1WTcOTQLEjYS2f6sXaLIFhE0DVFTHHC3q/view">Download</a>',
+    showCancelButton: true,
+    cancelButtonText: 'Cancel',
+  });
+  
+});
+
+$('.alert-k30').click(function () {
+  Swal.fire({
+    imageUrl: '@original/assets/su2.jpg',
+    customClass: {
+      popup: 'popup-noproject',
+      confirmButton: 'confirm-button-noproject',
+      cancelButton: 'cancel-button-noproject',
+    },
+    width: 400,
+    background: '#000',
+    backdrop: `rgba(13, 13, 13, 0.92)`,
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1yYCEi9pwrAUo9zYH9BdexH1DLCzbDN5v/view">Download</a>',
+    showCancelButton: true,
+    cancelButtonText: 'Cancel',
+  });
+  
+});
+
+$('.alert-k31').click(function () {
+  Swal.fire({
+    imageUrl: '@original/assets/pj.jpeg',
+    customClass: {
+      popup: 'popup-noproject',
+      confirmButton: 'confirm-button-noproject',
+      cancelButton: 'cancel-button-noproject',
+    },
+    width: 400,
+    background: '#000',
+    backdrop: `rgba(13, 13, 13, 0.92)`,
+    confirmButtonText: '<a href="https://www.panjeree.com/elearning/DQB12/books/hmt2/index.html">Download</a>',
+    showCancelButton: true,
+    cancelButtonText: 'Cancel',
+  });
+  
+});
+
+$('.alert-k32').click(function () {
+  Swal.fire({
+    imageUrl: '@original/assets/mcm.jpeg',
+    customClass: {
+      popup: 'popup-noproject',
+      confirmButton: 'confirm-button-noproject',
+      cancelButton: 'cancel-button-noproject',
+    },
+    width: 400,
+    background: '#000',
+    backdrop: `rgba(13, 13, 13, 0.92)`,
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1Joh9iFnmN2pCqF7jsSFkfjqKAXUmaeDK/view">Download</a>',
+    showCancelButton: true,
+    cancelButtonText: 'Cancel',
+  });
+  
+});
+
+//english
+
+$('.alert-k33').click(function () {
+  Swal.fire({
+    imageUrl: '@original/assets/e1.jpg',
+    customClass: {
+      popup: 'popup-noproject',
+      confirmButton: 'confirm-button-noproject',
+      cancelButton: 'cancel-button-noproject',
+    },
+    width: 400,
+    background: '#000',
+    backdrop: `rgba(13, 13, 13, 0.92)`,
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1q_np2iPDz-vw9Q5e15KHt5PVkxmSX-kh/view">Download</a>',
+    showCancelButton: true,
+    cancelButtonText: 'Cancel',
+  });
+  
+});
+
+$('.alert-k34').click(function () {
+  Swal.fire({
+    imageUrl: '@original/assets/e2.png',
+    customClass: {
+      popup: 'popup-noproject',
+      confirmButton: 'confirm-button-noproject',
+      cancelButton: 'cancel-button-noproject',
+    },
+    width: 400,
+    background: '#000',
+    backdrop: `rgba(13, 13, 13, 0.92)`,
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1ilyFwlwWNWXAUM8pdxXlejUNSOlFv78I/view">Download</a>',
+    showCancelButton: true,
+    cancelButtonText: 'Cancel',
+  });
+  
+});
+
+$('.alert-k35').click(function () {
+  Swal.fire({
+    imageUrl: '@original/assets/ad1.jpg',
+    customClass: {
+      popup: 'popup-noproject',
+      confirmButton: 'confirm-button-noproject',
+      cancelButton: 'cancel-button-noproject',
+    },
+    width: 400,
+    background: '#000',
+    backdrop: `rgba(13, 13, 13, 0.92)`,
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1E5AGAFLj1BlPiUVI6P-2xxioWzr1VMuu/view">Download</a>',
+    showCancelButton: true,
+    cancelButtonText: 'Cancel',
+  });
+  
+});
+
+$('.alert-k36').click(function () {
+  Swal.fire({
+    imageUrl: '@original/assets/ad2.jpg',
+    customClass: {
+      popup: 'popup-noproject',
+      confirmButton: 'confirm-button-noproject',
+      cancelButton: 'cancel-button-noproject',
+    },
+    width: 400,
+    background: '#000',
+    backdrop: `rgba(13, 13, 13, 0.92)`,
+    confirmButtonText: '<a href="https://www.panjeree.com/elearning/DQB11/books/en1/index.html">1st paper</a>',
+    showCancelButton: true,
+    cancelButtonText: '<a href="https://www.panjeree.com/elearning/DQB12/books/en2/index.html">2nd paper</a>',
+  });
+  
+});
+
+//ICT
+$('.alert-k37').click(function () {
+  Swal.fire({
+    imageUrl: '@original/assets/ict.png',
+    customClass: {
+      popup: 'popup-noproject',
+      confirmButton: 'confirm-button-noproject',
+      cancelButton: 'cancel-button-noproject',
+    },
+    width: 400,
+    background: '#000',
+    backdrop: `rgba(13, 13, 13, 0.92)`,
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1VvT2_XvQCjFjkgpvCSz2iqAxscSAQ4Zo/view">Download</a>',
+    showCancelButton: true,
+    cancelButtonText: 'Cancel',
+  });
+  
+});
+
+$('.alert-k38').click(function () {
+  Swal.fire({
+    imageUrl: '@original/assets/ict.png',
+    customClass: {
+      popup: 'popup-noproject',
+      confirmButton: 'confirm-button-noproject',
+      cancelButton: 'cancel-button-noproject',
+    },
+    width: 400,
+    background: '#000',
+    backdrop: `rgba(13, 13, 13, 0.92)`,
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1VvT2_XvQCjFjkgpvCSz2iqAxscSAQ4Zo/view">Download</a>',
+    showCancelButton: true,
+    cancelButtonText: 'Cancel',
+  });
+  
+});
+
+$('.alert-k39').click(function () {
+  Swal.fire({
+    imageUrl: '@original/assets/ic.jpg',
+    customClass: {
+      popup: 'popup-noproject',
+      confirmButton: 'confirm-button-noproject',
+      cancelButton: 'cancel-button-noproject',
+    },
+    width: 400,
+    background: '#000',
+    backdrop: `rgba(13, 13, 13, 0.92)`,
+    confirmButtonText: '<a href="https://drive.google.com/file/d/162Tw8L6LgV8wuE7GvpQkAeBWIVhtJjtk/view">Download</a>',
+    showCancelButton: true,
+    cancelButtonText: 'Cancel',
+  });
+  
+});
+$('.alert-k40').click(function () {
+  Swal.fire({
+    imageUrl: '@original/assets/icp.webp',
+    customClass: {
+      popup: 'popup-noproject',
+      confirmButton: 'confirm-button-noproject',
+      cancelButton: 'cancel-button-noproject',
+    },
+    width: 400,
+    background: '#000',
+    backdrop: `rgba(13, 13, 13, 0.92)`,
+    confirmButtonText: '<a href="https://drive.google.com/file/d/16Smj0bwos">Download</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });

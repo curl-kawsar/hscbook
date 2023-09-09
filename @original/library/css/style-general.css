@@ -89,7 +89,36 @@ h6 {
 .k28,
 .k29,
 .k30,
-.k31
+.k31,
+.k32,
+.k33,
+.k34,
+.k35,
+.k36,
+.k37,
+.k38,
+.k39,
+.k40,
+.k41,
+.k42,
+.k43,
+.k44,
+.k45,
+.k46,
+.k47,
+.k48,
+.k49,
+.k50,
+.k51,
+.k52,
+.k53,
+.k54,
+.k55,
+.k56,
+.k57,
+.k58,
+.k59,
+.k60
  {
   margin: 12px;
   width: 150px;
@@ -129,7 +158,36 @@ h6 {
 .k28 img,
 .k29 img,
 .k30 img,
-.k31 img
+.k31 img,
+.k32 img,
+.k33 img,
+.k34 img,
+.k35 img,
+.k36 img,
+.k37 img,
+.k38 img,
+.k39 img,
+.k40 img,
+.k41 img,
+.k42 img,
+.k43 img,
+.k44 img,
+.k45 img,
+.k46 img,
+.k47 img,
+.k48 img,
+.k49 img,
+.k50 img,
+.k51 img,
+.k52 img,
+.k53 img,
+.k54 img,
+.k55 img,
+.k56 img,
+.k57 img,
+.k58 img,
+.k59 img,
+.k60 img
  {
   user-select: none;
   margin-top: 23px;
@@ -165,7 +223,36 @@ h6 {
 .k28:hover::after,
 .k29:hover::after,
 .k30:hover::after,
-.k31:hover::after
+.k31:hover::after,
+.k32:hover::after,
+.k33:hover::after,
+.k34:hover::after,
+.k35:hover::after,
+.k36:hover::after,
+.k37:hover::after,
+.k38:hover::after,
+.k39:hover::after,
+.k40:hover::after,
+.k41:hover::after,
+.k42:hover::after,
+.k43:hover::after,
+.k44:hover::after,
+.k45:hover::after,
+.k46:hover::after,
+.k47:hover::after,
+.k48:hover::after,
+.k49:hover::after,
+.k50:hover::after,
+.k51:hover::after,
+.k52:hover::after,
+.k53:hover::after,
+.k54:hover::after,
+.k55:hover::after,
+.k56:hover::after,
+.k57:hover::after,
+.k58:hover::after,
+.k59:hover::after,
+.k60:hover::after
  {
   display: inline-block;
   margin-top: 40px;
@@ -611,7 +698,7 @@ h6 {
 }
 
 .k29:hover::after {
-  content: "Physics 2nd";
+  content: "Math 1st";
 }
 
 /* ========== K30 ========== */
@@ -626,7 +713,7 @@ h6 {
 }
 
 .k30:hover::after {
-  content: "Physics T1";
+  content: "Math 2nd";
 }
 
 /* ========== K31========== */
@@ -641,7 +728,430 @@ h6 {
 }
 
 .k31:hover::after  {
-  content: "MCQ T1";
+  content: "Test M2";
+}
+
+/* ========== K32 ========== */
+
+.k32 {
+  border: 3px solid #1C3260;
+}
+
+.k32:hover {
+  border: 6px solid #ADD8E6;
+  background-color: #1C3260;
+}
+
+.k32:hover::after {
+  content: "MCQ M2";
+}
+
+/* ========== K33 ========== */
+
+.k33 {
+  border: 3px solid #32601C;
+}
+
+.k33:hover {
+  border: 6px solid #D8E6AD;
+  background-color: #32601C;
+}
+
+.k33:hover::after {
+  content: "English 1st";
+}
+
+/* ========== K34 ========== */
+
+.k34 {
+  border: 3px solid #601C32;
+}
+
+.k34:hover {
+  border: 6px solid #E6ADD8;
+  background-color: #601C32;
+}
+
+.k34:hover::after {
+  content: "English 2nd";
+}
+
+/* ========== K35 ========== */
+
+.k35 {
+  border: 3px solid #616117;
+}
+
+.k35:hover {
+  border: 6px solid #E0E07D;
+  background-color: #616117;
+}
+
+.k35:hover::after {
+  content: "Test Paper";
+}
+
+
+
+/* ========== K36 ========== */
+
+.k36 {
+  border: 3px solid #1C3260;
+}
+
+.k36:hover {
+  border: 6px solid #ADD8E6;
+  background-color: #1C3260;
+}
+
+.k36:hover::after {
+  content: "Test Paper";
+}
+
+/* ========== K2 ========== */
+
+.k37 {
+  border: 3px solid #32601C;
+}
+
+.k37:hover {
+  border: 6px solid #D8E6AD;
+  background-color: #32601C;
+}
+
+.k37:hover::after {
+  content: "ICT BOOK";
+}
+
+/* ========== K3 ========== */
+
+.k38 {
+  border: 3px solid #601C32;
+}
+
+.k38:hover {
+  border: 6px solid #E6ADD8;
+  background-color: #601C32;
+}
+
+.k38:hover::after {
+  content: "ICT Book";
+}
+
+/* ========== K39 ========== */
+
+.k39 {
+  border: 3px solid #616117;
+}
+
+.k39:hover {
+  border: 6px solid #E0E07D;
+  background-color: #616117;
+}
+
+.k39:hover::after {
+  content: "ICT MCQ";
+}
+
+
+/* ========== K40 ========== */
+
+.k40 {
+  border: 3px solid #1C3260;
+}
+
+.k40:hover {
+  border: 6px solid #ADD8E6;
+  background-color: #1C3260;
+}
+
+.k40:hover::after {
+  content: "ICT Test Paper";
+}
+
+/* ========== K41 ========== */
+
+.k41 {
+  border: 3px solid #32601C;
+}
+
+.k41:hover {
+  border: 6px solid #D8E6AD;
+  background-color: #32601C;
+}
+
+.k41:hover::after {
+  content: "Biology 2nd";
+}
+
+/* ========== K42 ========== */
+
+.k42{
+  border: 3px solid #601C32;
+}
+
+.k42:hover {
+  border: 6px solid #E6ADD8;
+  background-color: #601C32;
+}
+
+.k42:hover::after {
+  content: "Test Paper B1";
+}
+
+/* ========== K43========== */
+
+.k43 {
+  border: 3px solid #616117;
+}
+
+.k43:hover {
+  border: 6px solid #E0E07D;
+  background-color: #616117;
+}
+
+.k43:hover::after {
+  content: "MCQ B1";
+}
+
+/* ========== K44 ========== */
+
+.k44 {
+  border: 3px solid #1C3260;
+}
+
+.k44:hover {
+  border: 6px solid #ADD8E6;
+  background-color: #1C3260;
+}
+
+.k44:hover::after {
+  content: "Biology 1st";
+}
+
+/* ========== 45 ========== */
+
+.k45 {
+  border: 3px solid #32601C;
+}
+
+.k45:hover {
+  border: 6px solid #D8E6AD;
+  background-color: #32601C;
+}
+
+.k45:hover::after {
+  content: "Biology 2nd";
+}
+
+/* ========== K46 ========== */
+
+.k46 {
+  border: 3px solid #601C32;
+}
+
+.k46:hover {
+  border: 6px solid #E6ADD8;
+  background-color: #601C32;
+}
+
+.k46:hover::after {
+  content: "Test Paper B1";
+}
+
+/* ========== K47 ========== */
+
+.k47 {
+  border: 3px solid #616117;
+}
+
+.k47:hover {
+  border: 6px solid #E0E07D;
+  background-color: #616117;
+}
+
+.k47:hover::after {
+  content: "MCQ B1";
+}
+
+/* ========== K48 ========== */
+
+.k48 {
+  border: 3px solid #1C3260;
+}
+
+.k48:hover {
+  border: 6px solid #ADD8E6;
+  background-color: #1C3260;
+}
+
+.k48:hover::after {
+  content: "Biology 1st";
+}
+
+/* ========== K49 ========== */
+
+.k49 {
+  border: 3px solid #32601C;
+}
+
+.k49:hover {
+  border: 6px solid #D8E6AD;
+  background-color: #32601C;
+}
+
+.k49:hover::after {
+  content: "Biology 2nd";
+}
+
+/* ========== K50 ========== */
+
+.k50 {
+  border: 3px solid #601C32;
+}
+
+.k50:hover {
+  border: 6px solid #E6ADD8;
+  background-color: #601C32;
+}
+
+.k50:hover::after {
+  content: "Test Paper B1";
+}
+
+/* ========== K51 ========== */
+
+.k51 {
+  border: 3px solid #616117;
+}
+
+.k51:hover {
+  border: 6px solid #E0E07D;
+  background-color: #616117;
+}
+
+.k51:hover::after {
+  content: "MCQ B1";
+}
+
+/* ========== K52 ========== */
+
+.k52 {
+  border: 3px solid #1C3260;
+}
+
+.k52:hover {
+  border: 6px solid #ADD8E6;
+  background-color: #1C3260;
+}
+
+.k52:hover::after {
+  content: "Biology 1st";
+}
+
+/* ========== K53 ========== */
+
+.k53 {
+  border: 3px solid #32601C;
+}
+
+.k53:hover {
+  border: 6px solid #D8E6AD;
+  background-color: #32601C;
+}
+
+.k53:hover::after {
+  content: "Biology 2nd";
+}
+
+/* ========== K54 ========== */
+
+.k54 {
+  border: 3px solid #601C32;
+}
+
+.k54:hover {
+  border: 6px solid #E6ADD8;
+  background-color: #601C32;
+}
+
+.k54:hover::after {
+  content: "Test Paper B1";
+}
+
+/* ========== K55 ========== */
+
+.k55 {
+  border: 3px solid #616117;
+}
+
+.k55:hover {
+  border: 6px solid #E0E07D;
+  background-color: #616117;
+}
+
+.k55:hover::after {
+  content: "MCQ B1";
+}
+
+/* ========== K56 ========== */
+
+.k56 {
+  border: 3px solid #1C3260;
+}
+
+.k56:hover {
+  border: 6px solid #ADD8E6;
+  background-color: #1C3260;
+}
+
+.k56:hover::after {
+  content: "Biology 1st";
+}
+
+/* ========== K57 ========== */
+
+.k57 {
+  border: 3px solid #32601C;
+}
+
+.k57:hover {
+  border: 6px solid #D8E6AD;
+  background-color: #32601C;
+}
+
+.k57:hover::after {
+  content: "Biology 2nd";
+}
+
+/* ========== K58 ========== */
+
+.k58 {
+  border: 3px solid #601C32;
+}
+
+.k58:hover {
+  border: 6px solid #E6ADD8;
+  background-color: #601C32;
+}
+
+.k58:hover::after {
+  content: "Test Paper B1";
+}
+
+/* ========== K59 ========== */
+
+.k59 {
+  border: 3px solid #616117;
+}
+
+.k59:hover {
+  border: 6px solid #E0E07D;
+  background-color: #616117;
+}
+
+.k59:hover::after {
+  content: "MCQ B1";
 }
 
 
@@ -777,6 +1287,131 @@ h6 {
   .k31:hover::after {
     content: "";
   }
+
+
+  .k32:hover::after {
+    content: "";
+  }
+
+  .k33:hover::after {
+    content: "";
+  }
+
+  .k34:hover::after {
+    content: "";
+  }
+
+  .k35:hover::after {
+    content: "";
+  }
+  .k36:hover::after {
+    content: "";
+  }
+
+  .k37:hover::after {
+    content: "";
+  }
+
+  .k38:hover::after {
+    content: "";
+  }
+
+  .k39:hover::after {
+    content: "";
+  }
+  
+  .k40:hover::after {
+    content: "";
+  }
+
+  .k41:hover::after {
+    content: "";
+  }
+
+  .k42:hover::after {
+    content: "";
+  }
+  
+  .k43:hover::after {
+    content: "";
+  }
+
+  .k44:hover::after {
+    content: "";
+  }
+
+  .k45:hover::after {
+    content: "";
+  }
+
+  .k46:hover::after {
+    content: "";
+  }
+
+  .k47:hover::after {
+    content: "";
+  }
+  .k48:hover::after {
+    content: "";
+  }
+
+  .k49:hover::after {
+    content: "";
+  }
+
+  .k50:hover::after {
+    content: "";
+  }
+
+  .k51:hover::after {
+    content: "";
+  }
+  
+  .k52:hover::after {
+    content: "";
+  }
+
+  .k53:hover::after {
+    content: "";
+  }
+
+  .k54:hover::after {
+    content: "";
+  }
+  
+  .k55:hover::after {
+    content: "";
+  }
+
+  .k56:hover::after {
+    content: "";
+  }
+
+  .k57:hover::after:hover::after {
+    content: "";
+  }
+
+  .k58:hover::after {
+    content: "";
+  }
+
+  .k59:hover::after {
+    content: "";
+  }
+  .k60:hover::after {
+    content: "";
+  }
+
+  .k16:hover::after:hover::after {
+    content: "";
+  }
+
+  .k62:hover::after {
+    content: "";
+  }
+
+
+
 
 
 
