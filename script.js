@@ -12,7 +12,7 @@ $('.alert-k1').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/1PpF9Gq6rcxXpqSsZrZqbtAkZIPVlp3Yg/view">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1PpF9Gq6rcxXpqSsZrZqbtAkZIPVlp3Yg/view">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -29,7 +29,7 @@ $('.alert-k2').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/1j65qv6jXrHB2KBklEO8MH536Sf6nAavJ/view">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1j65qv6jXrHB2KBklEO8MH536Sf6nAavJ/view">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -46,7 +46,7 @@ $('.alert-k3').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://www.panjeree.com/elearning/DQB11/books/bio1/mobile/index.html">Download</a>',
+    confirmButtonText: '<a href="https://www.panjeree.com/elearning/DQB11/books/bio1/mobile/index.html">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -63,7 +63,7 @@ $('.alert-k4').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/1WcZQ3asl2XZXLhE8rcR7com_DegVxstc/view">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1WcZQ3asl2XZXLhE8rcR7com_DegVxstc/view">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -83,7 +83,7 @@ $('.alert-k5').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/1Fj4CRRCABkK4CChF7zJxMHDHpaiImFmE/view">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1Fj4CRRCABkK4CChF7zJxMHDHpaiImFmE/view">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -117,7 +117,7 @@ $('.alert-k7').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://www.panjeree.com/elearning/DQB12/books/bio2/index.html">Download</a>',
+    confirmButtonText: '<a href="https://www.panjeree.com/elearning/DQB12/books/bio2/index.html">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -134,7 +134,7 @@ $('.alert-k8').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/1WcZQ3asl2XZXLhE8rcR7com_DegVxstc/view">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1WcZQ3asl2XZXLhE8rcR7com_DegVxstc/view">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -154,7 +154,7 @@ $('.alert-k9').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/1Lxurzjj9nb-YfcuxlxOapKPylDBE6FDB/view">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1Lxurzjj9nb-YfcuxlxOapKPylDBE6FDB/view">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -172,7 +172,7 @@ $('.alert-k10').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/1_klALWS4uGmrraEy7BlZ4XXgXCw4qD8x/view">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1_klALWS4uGmrraEy7BlZ4XXgXCw4qD8x/view">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -190,7 +190,7 @@ $('.alert-k11').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://www.panjeree.com/elearning/DQB11/books/phy1/index.html">Download</a>',
+    confirmButtonText: '<a href="https://www.panjeree.com/elearning/DQB11/books/phy1/index.html">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -208,7 +208,7 @@ $('.alert-k12').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/1WcZQ3asl2XZXLhE8rcR7com_DegVxstc/view">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1WcZQ3asl2XZXLhE8rcR7com_DegVxstc/view">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -228,7 +228,7 @@ $('.alert-k13').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/1dmSsPhtU1EUSE9ybhZNRqq47gkah_mAB/view">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1dmSsPhtU1EUSE9ybhZNRqq47gkah_mAB/view">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -246,7 +246,7 @@ $('.alert-k14').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/1FYhO6LcAxdQl3VU4HUab2AmRY6Nw_fIx/view">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1FYhO6LcAxdQl3VU4HUab2AmRY6Nw_fIx/view">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -264,7 +264,7 @@ $('.alert-k15').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://www.panjeree.com/elearning/DQB12/books/phy2/index.html">Download</a>',
+    confirmButtonText: '<a href="https://www.panjeree.com/elearning/DQB12/books/phy2/index.html">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -282,7 +282,7 @@ $('.alert-k16').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/1SQRDrVlpwXUaaNw0eg7AoV-1kMd_fyfN/view">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1SQRDrVlpwXUaaNw0eg7AoV-1kMd_fyfN/view">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -302,7 +302,7 @@ $('.alert-k17').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/drive/u/0/folders/175tm3S9eHxgO0mOWhgpGSp9EjaL3NS4h">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/drive/u/0/folders/175tm3S9eHxgO0mOWhgpGSp9EjaL3NS4h">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -319,7 +319,7 @@ $('.alert-k18').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/1ibj2N1C14-1dVNahhLY_EJGNjqekJbK1/view">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1ibj2N1C14-1dVNahhLY_EJGNjqekJbK1/view">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -337,7 +337,7 @@ $('.alert-k19').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://www.panjeree.com/elearning/DQB11/books/chm1/index.html">Download</a>',
+    confirmButtonText: '<a href="https://www.panjeree.com/elearning/DQB11/books/chm1/index.html">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -355,7 +355,7 @@ $('.alert-k20').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/1bAwbiZ93RK48eCwXxshn9TFxeDrc3HdP/view">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1bAwbiZ93RK48eCwXxshn9TFxeDrc3HdP/view">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -374,7 +374,7 @@ $('.alert-k21').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/10qTgsXI7O1hpEftp3sZTOyY6KITow-Ov/view">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/10qTgsXI7O1hpEftp3sZTOyY6KITow-Ov/view">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -392,7 +392,7 @@ $('.alert-k22').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/1pO-ptJtPVIc8PxWnJR_Qq7pdsjAsad4M/view">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1pO-ptJtPVIc8PxWnJR_Qq7pdsjAsad4M/view">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -410,7 +410,7 @@ $('.alert-k23').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://www.panjeree.com/elearning/DQB12/books/chm2/index.html">Download</a>',
+    confirmButtonText: '<a href="https://www.panjeree.com/elearning/DQB12/books/chm2/index.html">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -428,7 +428,7 @@ $('.alert-k24').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/1BLP-NtwQMw4EJC592Nl-dEHCWHkz5B3T/view">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1BLP-NtwQMw4EJC592Nl-dEHCWHkz5B3T/view">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -448,7 +448,7 @@ $('.alert-k25').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/drive/u/0/folders/1139EaSISzgHXEnKX6WQD_xZzmYNtdQq0">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/drive/u/0/folders/1139EaSISzgHXEnKX6WQD_xZzmYNtdQq0">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -466,7 +466,7 @@ $('.alert-k26').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/drive/folders/12A4P9Hfd9k1VDdZd-0DehCtzRI3FygEH?usp=sharing">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/drive/folders/12A4P9Hfd9k1VDdZd-0DehCtzRI3FygEH?usp=sharing">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -484,7 +484,7 @@ $('.alert-k27').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://www.panjeree.com/elearning/DQB11/books/hmt1/index.html">Download</a>',
+    confirmButtonText: '<a href="https://www.panjeree.com/elearning/DQB11/books/hmt1/index.html">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -502,7 +502,7 @@ $('.alert-k28').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://www.panjeree.com/elearning/DQB12/books/hmt2/index.html">Download</a>',
+    confirmButtonText: '<a href="https://www.panjeree.com/elearning/DQB12/books/hmt2/index.html">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -522,7 +522,7 @@ $('.alert-k29').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/1WTcOTQLEjYS2f6sXaLIFhE0DVFTHHC3q/view">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1WTcOTQLEjYS2f6sXaLIFhE0DVFTHHC3q/view">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -540,7 +540,7 @@ $('.alert-k30').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/1yYCEi9pwrAUo9zYH9BdexH1DLCzbDN5v/view">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1yYCEi9pwrAUo9zYH9BdexH1DLCzbDN5v/view">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -558,7 +558,7 @@ $('.alert-k31').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://www.panjeree.com/elearning/DQB12/books/hmt2/index.html">Download</a>',
+    confirmButtonText: '<a href="https://www.panjeree.com/elearning/DQB12/books/hmt2/index.html">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -576,7 +576,7 @@ $('.alert-k32').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/1Joh9iFnmN2pCqF7jsSFkfjqKAXUmaeDK/view">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1Joh9iFnmN2pCqF7jsSFkfjqKAXUmaeDK/view">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -596,7 +596,7 @@ $('.alert-k33').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/1q_np2iPDz-vw9Q5e15KHt5PVkxmSX-kh/view">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1q_np2iPDz-vw9Q5e15KHt5PVkxmSX-kh/view">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -614,7 +614,7 @@ $('.alert-k34').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/1ilyFwlwWNWXAUM8pdxXlejUNSOlFv78I/view">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1ilyFwlwWNWXAUM8pdxXlejUNSOlFv78I/view">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -632,7 +632,7 @@ $('.alert-k35').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/1E5AGAFLj1BlPiUVI6P-2xxioWzr1VMuu/view">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1E5AGAFLj1BlPiUVI6P-2xxioWzr1VMuu/view">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -669,7 +669,7 @@ $('.alert-k37').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/1VvT2_XvQCjFjkgpvCSz2iqAxscSAQ4Zo/view">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1VvT2_XvQCjFjkgpvCSz2iqAxscSAQ4Zo/view">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -687,7 +687,7 @@ $('.alert-k38').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/1VvT2_XvQCjFjkgpvCSz2iqAxscSAQ4Zo/view">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/1VvT2_XvQCjFjkgpvCSz2iqAxscSAQ4Zo/view">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -705,7 +705,7 @@ $('.alert-k39').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/162Tw8L6LgV8wuE7GvpQkAeBWIVhtJjtk/view">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/162Tw8L6LgV8wuE7GvpQkAeBWIVhtJjtk/view">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
@@ -722,7 +722,7 @@ $('.alert-k40').click(function () {
     width: 400,
     background: '#000',
     backdrop: `rgba(13, 13, 13, 0.92)`,
-    confirmButtonText: '<a href="https://drive.google.com/file/d/16Smj0bwos">Download</a>',
+    confirmButtonText: '<a href="https://drive.google.com/file/d/16Smj0bwos">Read</a>',
     showCancelButton: true,
     cancelButtonText: 'Cancel',
   });
